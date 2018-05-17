@@ -1,9 +1,8 @@
 {
-  "presets": ["env", "flow"],
+  "presets": ["env", "react"],
   "plugins": [
     "transform-class-properties",
     "transform-object-rest-spread",
     "transform-react-jsx",
-    "syntax-flow"
   ]
 }
